@@ -1,0 +1,25 @@
+.logo {
+position: relative;
+width: 68px;
+height: 68px;
+left: 0px;
+top: 0px;
+z-index: 5;
+
+padding: 20px;
+
+background-image: url(images/logo2.png);
+}
+
+.logo_2 {
+
+position: relative;
+width: 68px;
+height: 68px;
+left: 0px;
+top: 0px;
+z-index: 6;
+padding: 20px; 
+background-image: url(images/logo1.png); 
+
+}

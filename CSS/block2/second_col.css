@@ -1,0 +1,27 @@
+.second_col{
+
+    width: 826px;
+    height: 89px;
+
+background: #320B61;
+}
+
+.text_style_second_col{
+ 
+width: 826px;
+height: 25px;
+left: 0px;
+top: 32px;
+
+
+font-size: 20px;
+line-height: 24px;
+/* identical to box height */
+
+text-align: center;
+text-transform: uppercase;
+font-feature-settings: 'tnum' on, 'lnum' on;
+color: #FFFF
+;
+
+}

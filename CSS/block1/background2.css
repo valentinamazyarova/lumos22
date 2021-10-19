@@ -1,0 +1,36 @@
+
+.background2 {
+   position: relative;
+    
+
+    width: 1920px;
+    height: 860px;
+ 
+    
+    z-index: 1;
+    background: rgba(50, 11, 97, 0.8);  
+
+
+
+   
+ }
+
+ @media (min-width: 576px) { 
+
+    .bacground2{
+        width: 480px;
+        height: 1423px; 
+    }
+
+ }
+
+
+@media (min-width: 768px) { 
+
+    .bacground2{
+        width: 768px;
+        height: 1306px; 
+    }  
+ }
+
+

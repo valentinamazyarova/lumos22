@@ -1,0 +1,13 @@
+.element_decore {
+
+width: 122px;
+height: 124px;
+left: 405px;
+top: 516px;
+
+z-index: 5000;
+
+background-image: url(../images/el1.svg);
+
+}
+

@@ -1,0 +1,45 @@
+.background1 {
+    
+    position: relative;
+   
+     width: 1920px;
+     height: 860px;
+     
+ 
+     z-index: 0;
+     background: url(../images/fon.jpg) ;
+}
+
+
+@media (max-width: 768px) { 
+    .bacground1{
+
+        width: 768px;
+        height: 1306px; 
+
+        background: url(../images/fon2.jpg) ;
+    }
+
+ }
+
+@media (max-width: 576px) { 
+    .bacground1{
+
+        width: 480px;
+        height: 1423px; 
+
+        background: url(../images/fon3.jpg) ;
+    }
+
+ }
+
+
+
+
+
+
+
+
+
+
+
